@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Loknath-basak-Anup</h1>
+<h1 align="center">Hi , I'm Loknath-basak-Anup</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loknath-basak-anup&label=Profile%20views&color=0e75b6&style=flat" alt="loknath-basak-anup" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loknath-basak-anup" alt="loknath-basak-anup" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Dart,flutter**
+-  I’m currently learning **Dart,flutter**
 
 - 📫 How to reach me **loknathbasakanup7@gmail.com**
 
