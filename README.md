@@ -1,4 +1,4 @@
-<h1 align="center">Hi ,Hello, my name is Loknath Basak Anup. I am currently studied at B.sc[Engg.] in Department of Computer science & Engineering  at United International University . </h1>
+<h1 align="center"> Hello, my name is Loknath Basak Anup. I am currently studied at B.sc[Engg.] in Department of Computer science & Engineering  at United International University . </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loknath-basak-anup&label=Profile%20views&color=0e75b6&style=flat" alt="loknath-basak-anup" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loknath-basak-anup" alt="loknath-basak-anup" /></a> </p>
