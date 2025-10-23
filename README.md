@@ -1,4 +1,14 @@
-<h1 align="center"> Hello, my name is Loknath Basak Anup. I am currently studied at B.sc[Engg.] in Department of Computer science & Engineering  at United International University . I have a strong interest in core programming concepts, especially in C++, and I am  actively developing my skills in data structures, algorithms, and object-oriented programming. I have also worked on projects involving linked lists, sorting and searching algorithms, and simple system simulations using C++. </h1>
+#  Hello ,
+ I am Loknath Basak Anup, a B.Sc. Engineering student in the Department of Computer Science & Engineering at United International University. I’m passionate about core programming, especially in C++, and continuously developing my skills in data structures, algorithms, and object-oriented programming.<br>I have worked on several projects involving database management systems, website development, and C++ based system simulations. Alongside my academic studies, I actively participate in competitive programming to enhance my problem-solving skills. I am also exploring Artificial Intelligence (AI) and Machine Learning (ML) with the aim of becoming a proficient AI/ML Engineer in the future.
+
+
+
+  
+  <img src="https://png.pngtree.com/background/20250314/original/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-picture-image_16306159.jpg"/>
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loknath-basak-anup&label=Profile%20views&color=0e75b6&style=flat" alt="loknath-basak-anup" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loknath-basak-anup" alt="loknath-basak-anup" /></a> </p>
@@ -22,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loknath-basak-anup&show_icons=true&locale=en" alt="loknath-basak-anup" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loknath-basak-anup&" alt="loknath-basak-anup" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loknath-basak-anup&" alt="loknath-basak-anup" /></p> 
